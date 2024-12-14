@@ -1,4 +1,4 @@
-👋 Hi, I’m **Arham Natiq**, a passionate Laravel and Vue.js Full Stack Developer.
+👋 Hi, I’m **Arham Natiq**, a passionate  Full Stack Developer.
 
 👀 I’m interested in solving complex problems, debugging code, and creating efficient and scalable web applications.
 
