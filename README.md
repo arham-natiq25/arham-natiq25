@@ -1,4 +1,4 @@
-👋 Hi, I’m **Arham Natiq**, a passionate  Full Stack Developer.
+👋 Hi, I’m **Muhammad Arham**, a passionate  Full Stack Developer.
 
 👀 I’m interested in solving complex problems, debugging code, and creating efficient and scalable web applications.
 
@@ -7,7 +7,7 @@
 💞️ I’m looking to collaborate on innovative projects that push the boundaries of web development, especially those involving Laravel and Vue.js.
 
 📫 How to reach me: 
-- LinkedIn: [Arham Natiq](https://www.linkedin.com/in/arham-natiq25/)
+- LinkedIn: [Muhammad Arham](https://www.linkedin.com/in/arham-natiq25/)
 - Email: arhamnatiq25@gmail.com
   
 
