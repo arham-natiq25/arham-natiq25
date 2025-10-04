@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning advanced techniques in full-stack development, focusing on real-time features, performance optimization, and integrating third-party services.
 
-💞️ I’m looking to collaborate on innovative projects that push the boundaries of web development, especially those involving Laravel and Vue.js.
+💞️ I’m looking to collaborate on innovative projects that push the boundaries of web development, especially those involving PHP,Laravel,Wordpress,React and Vue.js.
 
 📫 How to reach me: 
 - LinkedIn: [Muhammad Arham](https://www.linkedin.com/in/arham-natiq25/)
